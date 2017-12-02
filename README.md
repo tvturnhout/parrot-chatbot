@@ -21,7 +21,7 @@ Download your facebook chatlog, you can find it in your Facebook general account
 
 You will find multiple html files with all your chatlogs. Choose one you want the chatbot to train on and rename it to 'chat.txt'.
 
-## Setup your Telegram bot!
+## Setup your Telegram bot
 
 Go to Telegram and look for 'The Botfather'. You can use this bot to setup your own chatbot.
 
