@@ -50,7 +50,8 @@ def echo_all(message):
 			ind = original
 		else:
 			ind = similist.index(max(similist))
-		if max(similist)>0.74:
+		#change treshold to increase required Levenhstein match before answering
+		if max(similist)>0.75:
 			try:
 				print('Given: '+ str(message.text) + '---' + str(lanchat[ind-1]))
 				antwoord = lanchat[ind-1]
