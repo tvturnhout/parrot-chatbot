@@ -2,7 +2,7 @@
 
 With this project you can use your Facebook chat history to make a lightweight chatbot that answers with sentences learned from your chatlogs. 
 
-I found this particularly entertaining when added to a group chat with a suffiicient long chat history. The bot will recognize a lot of topics the group particularly talks about which makes for hilarious situations.
+I found this particularly entertaining when added to a groupchat with a suffiicient long chat history. The bot will recognize a lot of topics the group particularly talks about which makes for hilarious situations.
 
 # Requirements
 
