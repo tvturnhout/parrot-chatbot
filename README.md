@@ -63,3 +63,5 @@ After that add the bot to your groupchat.
 License
 ----
 MIT
+
+tvturnhout - 2018
