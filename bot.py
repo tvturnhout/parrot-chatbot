@@ -42,7 +42,7 @@ def echo_all(message):
 		i=0
 		for item in lanchat:
 			similist.append(L.ratio(item,message.text))
-			i= i+1
+			i += 1
 		print('Score is: ' + str(max(similist)))
 		if max(similist)==1:
 			options = [i for i, j in enumerate(similist) if j == 1]
