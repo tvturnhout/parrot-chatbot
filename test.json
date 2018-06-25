@@ -5,5 +5,6 @@
 	}, {
 		"question_variations": ["Wat is Sporza?", "Wat betekent Sporza?"],
 		"answer": "Sporza is een merk van de VRT"
-	}]
+	}],
+	"minimum_matching_score": 55
 }
